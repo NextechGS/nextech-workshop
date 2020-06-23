@@ -43,10 +43,10 @@ What's here?
 * [Source](Source/) - Contains [App.js](Source/App.js) which is referenced from index.html.  This is where the app's code goes.
 * [server.js](server.js) - A simple node.js server for serving your Nextech app.  See the **Local server** section.
 * [package.json](package.json) - Dependencies for the node.js server.
-* [LICENSE](LICENSE.md) - A license file already referencing NextechGS & Cesium as a third-party.  This starter app is licensed with [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) (free for commercial and non-commercial use).  You can, of course, license your code however you want.
+* [LICENSE](LICENSE.md) - A license file already referencing NextechGS as a third-party.  This starter app is licensed with [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) (free for commercial and non-commercial use).  You can, of course, license your code however you want.
 * [.gitignore](.gitignore) - A small list of files not to include in the git repo.  Add to this as needed.
 
-Cesium resources
+NextechGS resources
 ----------------
 
 * [Reference Documentation](https://cesium.com/docs/cesiumjs-ref-doc/) : A complete guide to the Cesium API containing many code snippets.
